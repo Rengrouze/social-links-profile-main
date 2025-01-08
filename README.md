@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
--  Solution URL: [Add solution URL here](https://github.com/Rengrouze/social-links-profile-main)
--  Live Site URL: [Add live site URL here](https://rengrouze.github.io/social-links-profile-main/)
+-  Solution URL: [social-links-profile-main](https://github.com/Rengrouze/social-links-profile-main)
+-  Live Site URL: [github.io/social-links-profile-main](https://rengrouze.github.io/social-links-profile-main/)
 
 ## My process
 
